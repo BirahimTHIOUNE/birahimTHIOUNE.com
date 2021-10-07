@@ -1,0 +1,102 @@
+body{
+    background-image: url(../images/IC.jpg);
+    background-attachment: scroll;
+}
+
+.cadre{
+    float: left;
+    width: 86%;
+    height: 250px;
+    margin-left: 7%;
+    margin-top: 2px;
+    border-radius: 20px;
+    background-color: black;
+    border-style: inset;
+    border-width: 10px;
+}
+.coord{
+    float: left;
+    width: 25%;
+    height: 200px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 6px 6px 0px red;
+    margin-left: 1%;
+    margin-top: 1%;
+    color: rgb(0, 0, 0);
+    text-indent: 15px;
+}
+
+.photo{
+    float: right;
+    width: 25%;
+    height: 200px;
+    margin-right: 1%;
+    margin-top: 1%;
+    border-style: outset;
+    border-width: 3px;
+}
+.menu{
+    float: left;
+    width: 80%;
+    height: 40px;
+    border-radius: 22px;
+    box-shadow: 6px 6px 0px rgb(141, 141, 141) ;
+    margin-left: 10%;
+    margin-top: 1%;
+    background-color: blue;
+} 
+.item {
+    float: left;
+    width: 17%;
+    height: 30px;
+    margin-top: 0.5%;
+    border-radius: 20px;
+    box-shadow: 5px 5px 0px red;
+    margin-left: 2%;
+    background-color: whitesmoke;
+    text-align: center;
+    font-size: 20px;
+}
+a:hover{
+    color: red;
+    font-size: 20px;
+}
+.Dev{
+    background-color: white;
+    float: left;
+    width: 86%;
+    height: 285px;
+    color:  black;
+    margin-left: 7%;
+    margin-top: 2%;
+    border-radius: 40px 40px 40px 40px;
+    border-style: outset;
+    border-width: 10px;
+}
+.aritem {
+    float: left;
+    width: 17%;
+    height: 30px;
+    margin-top: 0.5%;
+    border-radius: 20px;
+    box-shadow: 5px 5px 0px greenyellow;
+    margin-left: 2%;
+    background-color: rgb(9, 211, 9);
+    text-align: center;
+    font-size: 25px;
+}
+.pub {
+    float: left;
+    width: 45%;
+    height: 200px;
+    margin-left: 1% ;
+    margin-top: 1%;
+    box-shadow: 6px 6px 0px black;
+    border-style: inset;
+    border-width: 3px;
+}
+.h1 {
+    color: black;
+    text-shadow:  2px 2px 1px rgb(59, 231, 59);
+}
